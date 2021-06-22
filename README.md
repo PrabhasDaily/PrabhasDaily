@@ -24,4 +24,4 @@ Join my discord server or you are a **NOOB!** <img src="https://images-wixmp-ed3
 
 ...End x_x...
 
-https://www.youtube.com/subscribe_embed?channelid=UC7D7XbmCYJLinFMonBEnd0Q&amp;layout=full&amp;theme=dark&amp;count=default&amp
+<img src="https://www.youtube.com/subscribe_embed?channelid=UC7D7XbmCYJLinFMonBEnd0Q&amp;layout=full&amp;theme=dark&amp;count=default&amp">
