@@ -22,6 +22,8 @@ Join my discord server or you are a **NOOB!** <img src="https://images-wixmp-ed3
 
 <a href="https://discord.gg/8U5WdT2Y8A"><img src="https://invidget.switchblade.xyz/8U5WdT2Y8A"/></a>
 
-<div class="tagembed-container" style=" width:100px;height:100%;overflow: auto;"><div class="tagembed-socialwall" data-wall-id="6446" view-url="https://widget.tagembed.com/6446?view">  </div> <script src="//widget.tagembed.com/embed.min.js" type="text/javascript"></script></div>
-
 ...End x_x...
+
+<script src="https://apis.google.com/js/platform.js"></script>
+
+<div class="g-ytsubscribe" data-channelid="UC7D7XbmCYJLinFMonBEnd0Q" data-layout="full" data-theme="dark" data-count="default"></div>
