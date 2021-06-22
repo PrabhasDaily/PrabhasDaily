@@ -19,6 +19,6 @@ You can click on this [link](https://links.prabhasdaily.repl.co/) which will tak
 
 ### Join!
 Join my discord server or you are a **NOOB!** (just kidding lol)
-https://invidget.switchblade.xyz/8U5WdT2Y8A
+<a href="https://discord.gg/8U5WdT2Y8A"><img src="https://invidget.switchblade.xyz/8U5WdT2Y8A"/></a>
 
-..End x_x..
+...End x_x...
