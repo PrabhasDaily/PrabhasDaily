@@ -24,6 +24,4 @@ Join my discord server or you are a **NOOB!** <img src="https://images-wixmp-ed3
 
 ...End x_x...
 
-<script src="https://apis.google.com/js/platform.js"></script>
-
-<div class="g-ytsubscribe" data-channelid="UC7D7XbmCYJLinFMonBEnd0Q" data-layout="full" data-theme="dark" data-count="default"></div>
+<a href="https://www.bit.ly/prabhasdaily"><img src="https://www.youtube.com/subscribe_embed?usegapi=1&amp;channelid=UC7D7XbmCYJLinFMonBEnd0Q&amp;layout=full&amp;theme=dark&amp;count=default&amp"></a>
