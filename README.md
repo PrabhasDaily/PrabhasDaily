@@ -18,7 +18,7 @@ You can click on this [link](https://links.prabhasdaily.repl.co/) which will tak
 - 😮 Fun fact: My friends are the ones who help me in life :D
 
 ### Join!
-Join my discord server or you are a **NOOB!** <img src="https://static.wikia.nocookie.net/roblox/images/6/65/Noob3.png/revision/latest/scale-to-width-down/420?cb=20180914191507"> (just kidding lol)
+Join my discord server or you are a **NOOB!** <img src="https://static.wikia.nocookie.net/roblox/images/6/65/Noob3.png/revision/latest/scale-to-width-down/420?cb=20180914191507" width="30px"> (just kidding lol)
 
 <a href="https://discord.gg/8U5WdT2Y8A"><img src="https://invidget.switchblade.xyz/8U5WdT2Y8A"/></a>
 
