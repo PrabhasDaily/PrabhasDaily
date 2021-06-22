@@ -22,7 +22,6 @@ Join my discord server or you are a **NOOB!** <img src="https://images-wixmp-ed3
 
 <a href="https://discord.gg/8U5WdT2Y8A"><img src="https://invidget.switchblade.xyz/8U5WdT2Y8A"/></a>
 
-<a href="https://www.bit.ly/prabhasdaily"><img src="https://elfsight-app-b243539a-ce08-4a2c-af2b-0f55eaf5118e"/><\a>
-">
+<a href="https://www.bit.ly/prabhasdaily"><img src="elfsight-app-b243539a-ce08-4a2c-af2b-0f55eaf5118e"/><\a>
 
 ...End x_x...
