@@ -22,6 +22,6 @@ Join my discord server or you are a **NOOB!** <img src="https://images-wixmp-ed3
 
 <a href="https://discord.gg/8U5WdT2Y8A"><img src="https://invidget.switchblade.xyz/8U5WdT2Y8A"/></a>
 
-https://elfsight-app-b243539a-ce08-4a2c-af2b-0f55eaf5118e
+<div class="tagembed-container" style=" width:100px;height:100%;overflow: auto;"><div class="tagembed-socialwall" data-wall-id="6446" view-url="https://widget.tagembed.com/6446?view">  </div> <script src="//widget.tagembed.com/embed.min.js" type="text/javascript"></script></div>
 
 ...End x_x...
