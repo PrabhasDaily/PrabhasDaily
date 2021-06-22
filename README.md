@@ -23,5 +23,3 @@ Join my discord server or you are a **NOOB!** <img src="https://images-wixmp-ed3
 <a href="https://discord.gg/8U5WdT2Y8A"><img src="https://invidget.switchblade.xyz/8U5WdT2Y8A"/></a>
 
 ...End x_x...
-
-<img src="https://www.youtube.com/subscribe_embed?channelid=UC7D7XbmCYJLinFMonBEnd0Q&amp;layout=full&amp;theme=dark&amp;count=default&amp">
