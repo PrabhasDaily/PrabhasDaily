@@ -1,6 +1,8 @@
 ### 🥓PrabhasDaily🥓 Here!
 ### Hello! I'm PrabhasDaily! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+[](https://komarev.com/ghpvc/?username=PrabhasDaily&color=red)
+
 <br> I am a ROBLOX YouTuber and I make Discord bots! <br/>
 
 ### Links
