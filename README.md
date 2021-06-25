@@ -3,6 +3,8 @@
 
 ![](https://komarev.com/ghpvc/?username=PrabhasDaily&color=red)
 
+![](https://discord.c99.nl/widget/theme-3/786791012651106314.png)
+
 <br> I am a ROBLOX YouTuber and I make Discord bots! <br/>
 
 ### Links
