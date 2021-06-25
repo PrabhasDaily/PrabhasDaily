@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=PrabhasDaily&color=red)
-
 ![](https://discord.c99.nl/widget/theme-3/786791012651106314.png)
 
  <a href="https://discord.gg/8U5WdT2Y8A" alt="PrabhasDaily's Hangout!">
@@ -7,6 +5,8 @@
 
 <a href="https://www.youtube.com/channel/UC7D7XbmCYJLinFMonBEnd0Q?sub_confirmation=1">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
+
+![](https://komarev.com/ghpvc/?username=PrabhasDaily&color=red)
 
 ### 🥓PrabhasDaily🥓 Here!
 ### Hello! I'm PrabhasDaily! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
