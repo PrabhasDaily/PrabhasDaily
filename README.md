@@ -7,6 +7,9 @@
 
 <br> I am a ROBLOX YouTuber and I make Discord bots! <br/>
 
+ <a href="https://discord.gg/8U5WdT2Y8A" alt="PrabhasDaily's Hangout!">
+    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
+
 ### Links
 You can click on this [link](https://links.prabhasdaily.repl.co/) which will take you to my link website or you can click these links!
 
