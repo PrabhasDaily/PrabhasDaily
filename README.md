@@ -1,6 +1,6 @@
 ![](https://discord.c99.nl/widget/theme-3/786791012651106314.png)
 
- <iframe src="https://discord.com/widget?id=788336379225702411&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+![](https://discord.com/widget?id=788336379225702411&theme=dark)
 
 ![](https://img.shields.io/youtube/channel/subscribers/UC7D7XbmCYJLinFMonBEnd0Q?color=%23FF0000&label=SUBSCRIBE%21&logo=Subscribe%20widget&style=for-the-badge)
 
