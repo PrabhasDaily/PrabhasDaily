@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
 
 <a href="https://www.youtube.com/channel/UC7D7XbmCYJLinFMonBEnd0Q?sub_confirmation=1">
-      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
+      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="mg.shields.io/youtube/channel/subscribers/UC7D7XbmCYJLinFMonBEnd0Q?color=%23FF0000&label=SUBSCRIBE%21&logo=Subscribe%20widget&style=for-the-badge"/></a> 
 
 ![](https://komarev.com/ghpvc/?username=PrabhasDaily&color=red)
 
