@@ -3,7 +3,8 @@
  <a href="https://discord.gg/8U5WdT2Y8A" alt="PrabhasDaily's Hangout!">
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
 
-![](img.shields.io/youtube/channel/subscribers/UC7D7XbmCYJLinFMonBEnd0Q?color=%23FF0000&label=SUBSCRIBE%21&logo=Subscribe%20widget&style=for-the-badge)
+![](https://img.shields.io/youtube/channel/subscribers/UC7D7XbmCYJLinFMonBEnd0Q?color=%23FF0000&label=SUBSCRIBE%21&logo=Subscribe%20widget&style=for-the-badge)
+
 ![](https://komarev.com/ghpvc/?username=PrabhasDaily&color=red)
 
 ### 🥓PrabhasDaily🥓 Here!
