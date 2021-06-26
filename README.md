@@ -1,6 +1,6 @@
 ![](https://discord.c99.nl/widget/theme-3/786791012651106314.png)
 
- ![](https://discord.com/widget?id=788336379225702411&theme=dark%22%20width=%22350%22%20height=%22500%22%20allowtransparency=%22true%22%20frameborder=%220%22%20sandbox=%22allow-popups%20allow-popups-to-escape-sandbox%20allow-same-origin%20allow-scripts)
+ <iframe src="https://discord.com/widget?id=788336379225702411&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 ![](https://img.shields.io/youtube/channel/subscribers/UC7D7XbmCYJLinFMonBEnd0Q?color=%23FF0000&label=SUBSCRIBE%21&logo=Subscribe%20widget&style=for-the-badge)
 
