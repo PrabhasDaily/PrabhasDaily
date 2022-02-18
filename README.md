@@ -1,4 +1,4 @@
-![](https://img.shields.io/discord/788336379225702411?color=%235865F2&style=for-the-badge) ![](https://img.shields.io/youtube/channel/subscribers/UC7D7XbmCYJLinFMonBEnd0Q?color=%23FF0000&label=SUBSCRIBE%21&logo=Subscribe%20widget&style=for-the-badge)
+![](https://img.shields.io/discord/941321675046285382?color=%235865F2&style=for-the-badge) ![](https://img.shields.io/youtube/channel/subscribers/UC7D7XbmCYJLinFMonBEnd0Q?color=%23FF0000&label=SUBSCRIBE%21&logo=Subscribe%20widget&style=for-the-badge)
 
 ![](https://komarev.com/ghpvc/?username=PrabhasDaily&color=red)
 
